@@ -1,5 +1,5 @@
 # CNN-Image-Classifier-Keras-
-create an image recognition model using TensorFlow and Keras. TensorFlow is a robust deep learning framework, and Keras is a high-level API used to solve real life deep learning problems
+Creating an image recognition model using TensorFlow and Keras. TensorFlow is a robust deep learning framework, and Keras is a high-level API used to solve real life deep learning problems.
 
 In Image recognition, we input an image into a neural network and get a label (that belongs to a pre-defined class) for that image as an output. There can be multiple classes for the labeled image. If it belongs to a single class, then we call it recognition; if there are multiple classes, we call it classification. 
 
